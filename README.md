@@ -5,3 +5,4 @@ Projects created while going through [this](https://www.udemy.com/course/50-proj
 ## Projects
 
 1. [Expanding Cards](https://github.com/kaynmay/50Projects50Days.html/tree/main/50%20projects%2050%20days/expanding%20cards)
+2. [Progress Steps](https://github.com/kaynmay/50Projects50Days.html/tree/main/50%20projects%2050%20days/progress%20steps)
